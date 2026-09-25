@@ -813,4 +813,3 @@ You can also send me a donation to the address from [this repository](https://gi
 Thank you! 🙏
 
 #
-- [Onchain Diary — Web3 security education & on-chain fraud investigation guides](https://theonchaindiary.com/)
